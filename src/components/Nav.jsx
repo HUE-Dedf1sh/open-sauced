@@ -34,7 +34,7 @@ function LeftSide({isLoggedIn, user, handleLogIn, handleLogOut}) {
               rel="noreferrer"
               tabIndex={0}
               href="https://github.com/open-sauced/open-sauced/issues/new/choose">
-              <FaGithubSquare/> Report bug
+              <FaGithubSquare/> Report a bug to the authorities
             </SubtleLink>
           </li>
         )}
